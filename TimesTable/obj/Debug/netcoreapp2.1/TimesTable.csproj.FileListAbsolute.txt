@@ -1,0 +1,11 @@
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.csprojAssemblyReference.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.csproj.CoreCompileInputs.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.AssemblyInfoInputs.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.AssemblyInfo.cs
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.deps.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.runtimeconfig.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.runtimeconfig.dev.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.dll
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.pdb
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.dll
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.pdb
