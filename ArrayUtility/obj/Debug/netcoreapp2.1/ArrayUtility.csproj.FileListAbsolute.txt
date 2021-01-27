@@ -1,0 +1,11 @@
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtility.csprojAssemblyReference.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtility.csproj.CoreCompileInputs.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtility.AssemblyInfoInputs.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtility.AssemblyInfo.cs
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtility.deps.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtility.runtimeconfig.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtility.runtimeconfig.dev.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtility.dll
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\bin\Debug\netcoreapp2.1\ArrayUtility.pdb
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtility.dll
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\ArrayUtility\obj\Debug\netcoreapp2.1\ArrayUtility.pdb

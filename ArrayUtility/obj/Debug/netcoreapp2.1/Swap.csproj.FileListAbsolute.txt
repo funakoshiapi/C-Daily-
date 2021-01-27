@@ -1,0 +1,11 @@
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\bin\Debug\netcoreapp2.1\Swap.deps.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\bin\Debug\netcoreapp2.1\Swap.runtimeconfig.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\bin\Debug\netcoreapp2.1\Swap.runtimeconfig.dev.json
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\bin\Debug\netcoreapp2.1\Swap.dll
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\bin\Debug\netcoreapp2.1\Swap.pdb
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\obj\Debug\netcoreapp2.1\Swap.csprojAssemblyReference.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\obj\Debug\netcoreapp2.1\Swap.csproj.CoreCompileInputs.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\obj\Debug\netcoreapp2.1\Swap.AssemblyInfoInputs.cache
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\obj\Debug\netcoreapp2.1\Swap.AssemblyInfo.cs
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\obj\Debug\netcoreapp2.1\Swap.dll
+C:\Users\fsilva\Desktop\Workstation\c# training\dailyC#\Swap\obj\Debug\netcoreapp2.1\Swap.pdb
